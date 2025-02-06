@@ -7,3 +7,5 @@ Run
 Set the weight path and camera path in pose_yolo.py
 python3 pose_yolo.py
 ```
+A survey presentation is provided about the application of computer vision models in sports injuries and motion analysis, this presentation is available [here](https://drive.google.com/file/d/1waxSHtg1ora3sqQCu_v6JAHe-Y4ULKS3/view?usp=sharing) 
+
